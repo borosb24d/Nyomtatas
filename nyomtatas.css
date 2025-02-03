@@ -46,3 +46,7 @@ a {
 img-thumbnail {
   
 }
+
+input[type=number] {
+  margin: 0px auto 15px auto;
+}
